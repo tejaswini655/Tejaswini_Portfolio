@@ -1,5 +1,6 @@
 # Tejaswini_Portfolio
 Describing my self-achievements and self-information in website manner
+
 👩‍💻 About Me
 
 Hello! I'm Lakkoji Tejaswini, a passionate Computer Science Engineering student dedicated to building innovative and impactful software solutions. I have a strong interest in Python Development 🐍, Full Stack Development 🌐, Artificial Intelligence 🤖, and Web Technologies 💻. I enjoy learning new technologies, solving real-world problems, and continuously improving my technical skills.
